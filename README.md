@@ -41,6 +41,6 @@ I'm Dzmitry, <strong>Front End developer</strong> from  Minsk, Belarus
 
 ### 📈 Some Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DzmitryDavid&theme=onedark&show_icons=true&hide_border=true&hide=contribs,prs" alt="Dzmitry stats">
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzmitryDavid&theme=onedark&show_icons=true&hide_border=true&hide=contribs,prs">
 
 
