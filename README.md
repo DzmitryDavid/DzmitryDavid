@@ -1,11 +1,11 @@
-### Hello and welcome! 👋
+## 👋 Hi I'm Dzmitry
 
----
-#### I'm Dzmitry, Front End developer from  Minsk, Belarus.
+Hi there!<br>
+I'm Dzmitry, <strong>Front End developer</strong> from  Minsk, Belarus
 
-💡 I like to explore new trends and learn new technologies.
-
-🌱 I'm on track for learning more about [React](https://reactjs.org/), [Redux](https://redux.js.org/), [TypeScript](https://www.typescriptlang.org/) and [NodeJS](https://nodejs.org/).
+- 💡 I like to explore new trends and learn new technologies.
+- ✍ You can find my projects in my [portfolio](https://dzmitrydavid.github.io/portfolio/)
+- 🌱 I'm on track for learning more about [React](https://reactjs.org/), [Redux](https://redux.js.org/), [TypeScript](https://www.typescriptlang.org/) and [NodeJS](https://nodejs.org/).
 
 <br>
 
@@ -33,12 +33,11 @@
 
 ### 🌎 Where to find me
 
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[<img align="left" width=30 height=30 src="https://user-images.githubusercontent.com/61329467/127709676-3ffefb4b-c2c6-45f5-8b95-511e781363b5.png" alt="LinkedIn" title="LinkedIn">](https://www.linkedin.com/in/dzmitrydavidovich/)
+[<img align="left" width=30 height=30 src="https://user-images.githubusercontent.com/61329467/127710256-db98f536-eacf-46b9-a565-14a45d2f8a0e.png" alt="Facebook" title="Facebook">](https://www.facebook.com/dzmitry.davidovich.1)
+[<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127712124-92b3fc8e-eb48-42d6-813b-8c2c41ef4543.png" alt="Gmail" title="Gmail">](mailto:dzmitrydavidovich89@gmail.com)
+
+
+
