@@ -13,7 +13,7 @@ I'm Dzmitry, <strong>Front End developer</strong> from  Minsk, Belarus
 <br/>
 
 [<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127686852-2df2cd44-dc58-4472-b1c2-4e35a8f57d0a.png" alt="vs code" title="Visual Studio Code">](https://code.visualstudio.com/)
-[<img align=left width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127690450-abeb8f25-fa83-42d8-85a2-6d717ef41090.png" alt="Github" title="Git">](https://github.com/)
+[<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127690450-abeb8f25-fa83-42d8-85a2-6d717ef41090.png" alt="Github" title="Git">](https://github.com/)
 [<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127693496-29528a9d-53a0-4903-87e2-cef1f2b13348.png" alt="Netlify" title="Netlify">](https://www.netlify.com/)
 [<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127685962-eb8d84c3-4125-4303-8f86-10fc6a99d278.png" alt="Html" title="HTML5">](https://www.w3schools.com/html)
 [<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127686549-4912a02c-96a9-42dc-803c-175fb10ec60e.png" alt="CSS3" title=CSS3>](https://www.w3schools.com/css)
@@ -23,9 +23,6 @@ I'm Dzmitry, <strong>Front End developer</strong> from  Minsk, Belarus
 [<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127692386-ec291e3c-1153-42b0-92a2-93b162d225d3.png" alt="Gulp" title=Gulp>](https://gulpjs.com/)
 [<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127689351-81b06c19-4f3d-4aec-b373-4bafa9a03035.png" alt="React" title="React">](https://reactjs.org/)
 [<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127689101-2ab91222-1887-4145-ae4c-6564f4a45e51.png" alt="Redux" title="Redux">](https://redux.js.org/)
-<br/>
-<br/>
-<br/>
 [<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127692832-8d00e3f1-d593-4814-bdff-544f2172f46d.png" title="Firebase">](https://firebase.google.com/)
 [<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127693040-3d5acf01-dcec-4272-a233-66187e0d799a.png" alt="Npm" title="Npm">](https://www.npmjs.com/)
 [<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127694718-98bdf942-b309-4a7a-a778-7af960a5c5ff.png" alt="Styled-components" title="Styled-Components">](https://styled-components.com/)
