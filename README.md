@@ -40,7 +40,7 @@ I'm Dzmitry, <strong>Front End developer</strong> from  Minsk, Belarus
 [<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127694718-98bdf942-b309-4a7a-a778-7af960a5c5ff.png" alt="Styled-components" title="Styled-Components">](https://styled-components.com/)
 
 [<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127690152-4cae8577-04cd-43a2-aa9f-22b45be219b8.png" alt="TypeScript" title="TypeScript">](https://www.typescriptlang.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## 🌎 Where to find me:
 
 [<img align="left" width=30 height=30 src="https://user-images.githubusercontent.com/61329467/127709676-3ffefb4b-c2c6-45f5-8b95-511e781363b5.png" alt="LinkedIn" title="LinkedIn">](https://www.linkedin.com/in/dzmitrydavidovich/)
