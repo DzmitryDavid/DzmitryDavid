@@ -41,7 +41,9 @@ I'm Dzmitry, <strong>Front End developer</strong> from  Minsk, Belarus
 
 [<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127690152-4cae8577-04cd-43a2-aa9f-22b45be219b8.png" alt="TypeScript" title="TypeScript">](https://www.typescriptlang.org/)
 
-[<img align="left"  width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127695645-6b0f32de-67f7-4c55-9f21-e6e41d984678.png" alt="React Router" title="React Router">](https://reactrouter.com/).<br/><br/><br/><br/>
+[<img align="left"  width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127695645-6b0f32de-67f7-4c55-9f21-e6e41d984678.png" alt="React Router" title="React Router">](https://reactrouter.com/).
+
+<br/><br/>
 
 ## 🌎 Where to find me:
 <!-- <br/> -->
