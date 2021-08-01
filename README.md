@@ -43,10 +43,7 @@ I'm Dzmitry, <strong>Front End developer</strong> from  Minsk, Belarus
 
 [<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127695645-6b0f32de-67f7-4c55-9f21-e6e41d984678.png" alt="React Router" title="React Router">](https://reactrouter.com/)<br/><br/><br/><br/><br/>
 
-
-
-
-### 🌎 Where to find me:
+#### 🌎 Where to find me:
 <br/>
 
 [<img align="left" width=30 height=30 src="https://user-images.githubusercontent.com/61329467/127709676-3ffefb4b-c2c6-45f5-8b95-511e781363b5.png" alt="LinkedIn" title="LinkedIn">](https://www.linkedin.com/in/dzmitrydavidovich/)
