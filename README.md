@@ -41,10 +41,10 @@ I'm Dzmitry, <strong>Front End developer</strong> from  Minsk, Belarus
 
 [<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127690152-4cae8577-04cd-43a2-aa9f-22b45be219b8.png" alt="TypeScript" title="TypeScript">](https://www.typescriptlang.org/)
 
-[<img align="left" width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127695645-6b0f32de-67f7-4c55-9f21-e6e41d984678.png" alt="React Router" title="React Router">](https://reactrouter.com/)<br/><br/><br/><br/><br/>
+[<img align="left"  width=35 height=35 src="https://user-images.githubusercontent.com/61329467/127695645-6b0f32de-67f7-4c55-9f21-e6e41d984678.png" alt="React Router" title="React Router">](https://reactrouter.com/).<br/><br/><br/><br/>
 
-#### 🌎 Where to find me:
-<br/>
+## 🌎 Where to find me:
+<!-- <br/> -->
 
 [<img align="left" width=30 height=30 src="https://user-images.githubusercontent.com/61329467/127709676-3ffefb4b-c2c6-45f5-8b95-511e781363b5.png" alt="LinkedIn" title="LinkedIn">](https://www.linkedin.com/in/dzmitrydavidovich/)
 [<img align="left" width=30 height=30 src="https://user-images.githubusercontent.com/61329467/127710256-db98f536-eacf-46b9-a565-14a45d2f8a0e.png" alt="Facebook" title="Facebook">](https://www.facebook.com/dzmitry.davidovich.1)
