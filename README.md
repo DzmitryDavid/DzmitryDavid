@@ -5,7 +5,7 @@ I'm Dzmitry, <strong>Front End developer</strong> from  Minsk, Belarus
 <img align="right" src="https://user-images.githubusercontent.com/61329467/127743431-2f7456f9-850f-4222-8a22-88a249607273.png" width="300" height="300">
 
 - 💡 I like to explore new trends and learn new technologies.
-- ✍ You can find my projects in my [portfolio](https://dzmitrydavid.github.io/portfolio/)
+- ✍ You can find my projects in my [Portfolio](https://dzmitrydavid.github.io/)
 - 🌱 I'm on track for learning more about [React](https://reactjs.org/), [Redux](https://redux.js.org/),
   [TypeScript](https://www.typescriptlang.org/) and [NodeJS](https://nodejs.org/).
 
